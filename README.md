@@ -1,2 +1,2 @@
 # C-Programming-Practice-and-Codes
-Here I will just upload codes in C++, and what I have done learnt in C++ so far. Note: I had more codes written in my other computer, where I spent most of the time coding in C++, but I erased and reset that computer, therefore I lost 90% of the codes I wrote in C++, therefore couldn't upload more. 
+Here I will just upload codes in C++ and C, and what I have done learnt in C++ so far. Note: I had more codes written in my other computer, where I spent most of the time coding in C++, but I erased and reset that computer, therefore I lost 90% of the codes I wrote in C++, therefore couldn't upload more. Some of the codes have been written with the help of AI however. 
